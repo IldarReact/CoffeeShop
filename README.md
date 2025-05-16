@@ -1,8 +1,8 @@
 # Coffee Shop Self-Service Kiosk
+![promo](/public/images/other/screenshot2.png)
+![main panel](/public/images/other/screenshot1.png)
 
 A modern, interactive self-service kiosk application for coffee shops. This application provides a complete digital interface for customers to browse, customize, and purchase beverages while managing a loyalty program.
-
-![Coffee Shop Kiosk](https://placeholder.svg?height=300&width=600&text=Coffee+Shop+Kiosk)
 
 ## Features
 
@@ -39,7 +39,7 @@ A modern, interactive self-service kiosk application for coffee shops. This appl
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/your-username/coffee-shop-kiosk.git
+git clone https://github.com/IldarReact/CoffeeShop.git
 cd coffee-shop-kiosk
 \`\`\`
 
